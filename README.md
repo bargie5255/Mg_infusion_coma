@@ -7,15 +7,24 @@
 - preprocessing 과정의 코드
 - raw data loading부터 artifact removed data saving까지
 
+`preprocessing2.ipynb`
+- gamma band 분석을 위한 추가 코드
+
 `analysis.ipynb`
 - statistical analysis 과정의 코드
-- artifact removed data loading부터 statistical analysis result saving까지
+- tfr 파일 loading부터 statistical analysis result saving까지
 
 `plotting.ipynb`
-- CDSA plotting 과정의 코드
+- CDSA, time-power plot 등 여러 plot 생성 코드
 
 `large_artifact.csv`
 - 분석 대상 별 large artifact 구간의 tuple 저장
 
 `Mg_infusion_data.xlsx`
 - `analysis.ipynb`의 분석 결과가 저장된 파일
+
+`tfr.ipynb`
+- tfr 분석 코드
+
+`wICA.ipynb`
+- wavelet ICA 구현을 위한 코드 개발 중
