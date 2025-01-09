@@ -34,3 +34,6 @@
 
 `gamma_analysis.ipynb`
 - 감마대역까지의 분석결과 얻기 위한 자동화코드
+
+'gamma_plot.ipynb'
+- 감마대역까지의 플롯 그리기 위한 코드 개발 중
