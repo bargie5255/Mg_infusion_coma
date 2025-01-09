@@ -28,3 +28,9 @@
 
 `wICA.ipynb`
 - wavelet ICA 구현을 위한 코드 개발 중
+
+`poster_plotting.ipynb`
+- plot_1108 결과 만들기 위한 자동화 코드
+
+`gamma_analysis.ipynb`
+- 감마대역까지의 분석결과 얻기 위한 자동화코드
