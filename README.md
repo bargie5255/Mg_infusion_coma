@@ -18,13 +18,16 @@
 - CDSA, time-power plot 등 여러 plot 생성 코드
 
 `large_artifact.csv`
-- 분석 대상 별 large artifact 구간의 tuple 저장
+- post-infusion의 분석 대상 별 large artifact 구간의 tuple 저장
 
 `Mg_infusion_data.xlsx`
-- `analysis.ipynb`의 분석 결과가 저장된 파일
+- pharmaco-EEG 분석 결과가 저장된 파일
 
 `tfr.ipynb`
 - tfr 분석 코드
+
+`tfr_gamma1.ipynb`
+- gamma band까지 tfr 하기 위한 코드
 
 `wICA.ipynb`
 - wavelet ICA 구현을 위한 코드 개발 중
@@ -35,5 +38,11 @@
 `gamma_analysis.ipynb`
 - 감마대역까지의 분석결과 얻기 위한 자동화코드
 
-`gamma_plot.ipynb`
-- 감마대역까지의 플롯 그리기 위한 코드 개발 중
+`subacute_analysis.ipynb`
+- subacute (24hr)의 분석결과를 얻기 위한 코드
+
+`subacute_data.xlsx`
+- `subacute_analysis.ipynb`의 결과
+
+`figure_and_table`
+- 논문 작성 중 필요한 figure와 table과 관련된 코드
