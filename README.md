@@ -46,3 +46,6 @@
 
 `figure_and_table`
 - 논문 작성 중 필요한 figure와 table과 관련된 코드
+
+`example.ipynb`
+- 공개할 예시 데이터 생성 코드
