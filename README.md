@@ -44,7 +44,7 @@
 - 각각의 power value를 계산하여 저장
 - Output: Mg_infusion_data.xlsx의 데이터
 
-`poster_plotting.ipynb`
+`CDSA_plotting.ipynb`
 - Input: 1-30Hz까지 한 번에 계산된 rawTFR ('tfr_files_pre_post' 폴더)
 - TFR 로딩하여
 - plot_1108 결과인 CDSA 파일 생성
